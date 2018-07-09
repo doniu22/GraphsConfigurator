@@ -1,0 +1,31 @@
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\bin\Debug\Konfigurator.exe.config
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\bin\Debug\Konfigurator.exe
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\bin\Debug\Konfigurator.pdb
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\MainWindow.g.cs
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\App.g.cs
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator_MarkupCompile.cache
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator_MarkupCompile.lref
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\MainWindow.baml
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator.g.resources
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator.Properties.Resources.resources
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator.csproj.GenerateResource.Cache
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator.exe
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator.pdb
+C:\Users\Doniu\Desktop\Konfigurator\Konfigurator\obj\Debug\Konfigurator.csprojResolveAssemblyReference.cache
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\bin\Debug\Konfigurator.exe.config
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.exe
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.pdb
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\bin\Debug\Konfigurator.exe
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\bin\Debug\Konfigurator.pdb
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.csprojResolveAssemblyReference.cache
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\MainWindow.g.cs
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\App.g.cs
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator_MarkupCompile.cache
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator_MarkupCompile.lref
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\MainWindow.baml
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.g.resources
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.Properties.Resources.resources
+D:\Dominik-dokumenty\Studia\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.csproj.GenerateResource.Cache
+D:\Dominik-dokumenty\Studia\INŻYNIERSKIE\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\bin\Debug\Konfigurator.exe.config
+D:\Dominik-dokumenty\Studia\INŻYNIERSKIE\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.exe
+D:\Dominik-dokumenty\Studia\INŻYNIERSKIE\PRACA INŻYNIERSKA\Konfigurator\Konfigurator\obj\Debug\Konfigurator.pdb
